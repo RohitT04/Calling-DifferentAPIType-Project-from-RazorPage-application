@@ -1,0 +1,29 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<input type="date" placeholder="dd-mm-yyyy" />
+
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="~/js/site.js"></script>
+<script>
+    // Use datepicker on the date inputs
+$("input[type=date]").datepicker({
+  dateFormat: 'yyyy-mm-dd',
+  onSelect: function(dateText, inst) {
+    $(inst).val(dateText); // Write the value in the input
+  }
+});
+
+// Code below to avoid the classic date-picker
+$("input[type=date]").on('click', function() {
+  return false;
+});
+</script>

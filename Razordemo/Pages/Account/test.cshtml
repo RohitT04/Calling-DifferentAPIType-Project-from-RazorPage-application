@@ -1,0 +1,91 @@
+﻿@page
+
+@*@page "{handler?}"*@
+@using System.Web;
+@model Razordemo.Pages.Account.testModel
+@{
+}
+<input id="test" type="date" min="@System.DateTime.Today.ToString("yyyy-MM-dd")" onchange="myFunction">
+<input name="somedatqe" type="date" min="2022-12-25">
+ <form class="login100-form validate-form" method="post">
+<table class="table table-sm table-striped table-bordered m-2">
+    <thead>
+        <tr>
+            <th>Html Template</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model.pro)
+        {
+            <tr>
+      @*          <td>@r.InsertedDate</td>
+                <td>@r.Customer_Name</td>
+                <td>@r.Mobile</td>
+                <td>@r.Password</td>*@
+                
+                <td>
+                    @Html.Raw(HttpUtility.HtmlDecode(r.Password))
+                </td>
+            </tr>
+        }
+            
+    </tbody>
+        
+</table>
+    @*@Html.Raw(HttpUtility.HtmlEncode(Model.pro1.Password))*@
+        <div class="container-login100-form-btn">
+            <button class="login100-form-btn" type="submit" asp-page-handler="">
+                Sign In
+            </button>
+</form>
+<form asp-page-handler="hi" method="post">
+    <div class="col-md-10">
+        <input name="Password" type="file" Class="form-control" />
+    </div>
+@*@Html.TextAreaFor(a=>Model.pro3.Username)
+@Html.TextAreaFor(a=>Model.pro3.Email)
+@Html.TextAreaFor(a=>Model.pro3.CreatedDate)
+@Html.TextAreaFor(a=>Model.pro3.LastLoginDate)
+@Html.TextAreaFor(a=>Model.pro3.Password)
+@Html.TextAreaFor(a=>Model.pro3.LastLoginDate)*@
+    <input type="text" name="userId" />
+    <input type="text" name="Username" />
+    @*<input type="text" name="Password" />*@
+    <input type="text" name="Email" placeholder="Yo" value="@System.DateTime.Now.ToString()" />
+    <input type="text" name="CreatedDate" />
+    <input type="text" name="LastLoginDate" />
+    
+    <select name="pro32">
+        <option value="1">hi1</option>
+        <option value="2">hi2</option>
+    </select>
+
+        <button class="login100-form-btn" >
+            Sign Innew
+        </button>
+</form>
+<form asp-page-handler="Yo" method="post">
+    <input type="text" name="userId" />
+    <button class="login100-form-btn">
+        Sign Innew to go to other project
+    </button>
+</form>
+<input type="button" asp-page-handler="List" />hy
+<p><img src="http://metro-portal.hr/img/repository/2010/06/medium/hijena_shutter.jpg" /></p>
+@using (Html.BeginForm("Create", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @foreach (var r in Model.pro)
+    {
+        var active = Html.Raw(HttpUtility.HtmlDecode(r.Password));
+        @Html.TextAreaFor(a=>active)
+    }
+    <input type="submit" value="submit" />
+}
+<script src="~/js/site.js"></script>
+            <script>
+    function myFunction() {
+       var da = $("#test").val();
+        alert($("#test").val());
+    }
+            </script>

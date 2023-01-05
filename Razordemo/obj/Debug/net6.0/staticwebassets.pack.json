@@ -1,0 +1,729 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Razordemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Razordemo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\css\\main.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\css\\util.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\util.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\favicon.ico",
+      "PackagePath": "staticwebassets\\Theme\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\JosefinSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\JosefinSans-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\JosefinSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\JosefinSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\JosefinSans-Italic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\JosefinSans-Italic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\JosefinSans-Light.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\JosefinSans-Light.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\JosefinSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\JosefinSans-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\JosefinSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\JosefinSans-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\JosefinSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\JosefinSans-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\JosefinSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\JosefinSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\JosefinSans-Thin.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\JosefinSans-Thin.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\JosefinSans-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\JosefinSans-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\JosefinSans\\OFL.txt",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\JosefinSans\\OFL.txt"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\OFL.txt",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\OFL.txt"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-Black.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-Black.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-Bold.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-Italic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-Italic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-Light.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-Light.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-Regular.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\fonts\\source-sans-pro\\SourceSansPro-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\source-sans-pro\\SourceSansPro-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Theme\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\images\\icons\\icon-google.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\icons\\icon-google.png"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\images\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\icons\\map-marker.png"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\js\\main.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\map-custom.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\test\\jquery.js",
+      "PackagePath": "staticwebassets\\Theme\\test\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\test\\modern.css",
+      "PackagePath": "staticwebassets\\Theme\\test\\modern.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\test\\survey.jquery.min.js",
+      "PackagePath": "staticwebassets\\Theme\\test\\survey.jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\Theme\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Theme\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\ab.ico",
+      "PackagePath": "staticwebassets\\ab.ico"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Test Pro\\Razordemo\\Razordemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Razordemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Razordemo.props",
+      "PackagePath": "build\\Razordemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Razordemo.props",
+      "PackagePath": "buildMultiTargeting\\Razordemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Razordemo.props",
+      "PackagePath": "buildTransitive\\Razordemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
