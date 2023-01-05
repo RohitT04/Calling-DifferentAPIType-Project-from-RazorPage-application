@@ -1,0 +1,1 @@
+# Calling-DifferentAPIType-Project-from-RazorPage-application
